@@ -100,7 +100,8 @@ void showLedInfo(){
 }
 
 int main(){
+    setup();
     loop();
-
+    
     return 0;
 }
